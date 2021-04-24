@@ -17,6 +17,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   # zobacz
   $ pip list
   ```
+  [![Build Status](https://travis-ci.com/TwoWolfs-WSB/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/TwoWolfs-WSB/se_hello_printer_app)
 
   Sprawdź: [tutorial venv](https://docs.python.org/3/tutorial/venv.html) oraz [biblioteki flask](http://flask.pocoo.org).
 
