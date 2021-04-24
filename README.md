@@ -24,7 +24,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```
   # jako zwykły program
-  $ python main.py
+  $ make deps lint test run
+
 
   # albo:
   $ PYTHONPATH=. FLASK_APP=hello_world flask run
@@ -47,7 +48,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
   ...
 
-  # aktywacja 
+  # aktywacja
   $ source .venv/bin/activate
   ```
 
